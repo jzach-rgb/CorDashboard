@@ -1,7 +1,6 @@
 from data_pipeline import load_and_clean
 from datetime import date
 from PIL import Image
-import plotly.io as pio
 from datetime import date, datetime
 import plotly.graph_objects as go
 import streamlit as st
