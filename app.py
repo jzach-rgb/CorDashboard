@@ -1,5 +1,4 @@
 from data_pipeline import load_and_clean
-from streamlit_extras.resizable_columns import resizable_columns
 from datetime import date
 from PIL import Image
 import plotly.io as pio
